@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 200px;
+}
+
+body {
+  background-color: wheat; /* Light gray background */
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 1.6em; /* Increase font size for h1 */
+  font-weight: bold; /* Make h1 bold */
+}
+
+#myExcuse {
+  padding: 40px;
+  font-size: 1.2em; /* Adjust font size for h2 */
+}
